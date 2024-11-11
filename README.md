@@ -10,9 +10,9 @@
 
 ### <a href='https://github.com/Fanzholl/Shablonizator'>Shablonizator</a> – генератор HTML-шаблонов, написанный на JavaScript, для упрощения процесса веб-разработки.
 
-### <a href='https://github.com/Fanzholl/magic/'>Magic</a> – реализация отрисовки данных игрового поля для <a href='https://datsteam.dev/datsmagic?ysclid=m37jpt9ykp838770884'>геймдона DatsMagic</a>.
+### <a href='https://github.com/Fanzholl/magic/'>Magic</a> – реализация отрисовки данных игрового поля для <a href='https://datsteam.dev/datsmagic?ysclid=m37jpt9ykp838770884'>геймтона DatsMagic</a>.
 
-### <a href='https://github.com/Fanzholl/magic-server/'>Magic Server</a> – реализация получения и обработки данных игрового поля для <a href='https://datsteam.dev/datsmagic?ysclid=m37jpt9ykp838770884'>геймдона DatsMagic</a>.
+### <a href='https://github.com/Fanzholl/magic-server/'>Magic Server</a> – реализация получения и обработки данных игрового поля для <a href='https://datsteam.dev/datsmagic?ysclid=m37jpt9ykp838770884'>геймтона DatsMagic</a>.
 
 ### Также приглашаю вас ознакомиться с моим <a href='https://github.com/Fanzholl/resume'>визуализированным резюме</a>, где можно найти больше информации о моих проектах.
 
